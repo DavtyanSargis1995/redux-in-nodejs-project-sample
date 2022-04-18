@@ -1,0 +1,15 @@
+{
+  "name": "jora-16-lesson",
+  "version": "1.0.0",
+  "description": "Reduxi project Node.js-ov",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Saqo",
+  "license": "ISC",
+  "dependencies": {
+    "redux": "^4.1.2"
+  }
+}
